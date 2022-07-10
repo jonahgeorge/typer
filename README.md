@@ -1,5 +1,7 @@
 # typer
 
+⌨️ For when you don't want to type things
+
 ## Usage
 
 ```sh
