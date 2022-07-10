@@ -5,7 +5,11 @@
 ## Usage
 
 ```sh
-echo 'echo "Hello world"' | typer
+$ echo 'echo "Hello world"' | typer
+echo "Hello world"
+
+$ echo "Hello world"
+Hello world
 ```
 
 ## Installation
