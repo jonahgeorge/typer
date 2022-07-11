@@ -15,5 +15,5 @@ Hello world
 ## Installation
 
 ```sh
-go install github.com/jonahgeorge/typer@2ab91ce6b360
+go install github.com/jonahgeorge/typer@latest
 ```
